@@ -1,0 +1,15 @@
+{
+	"manifest_version": 3,
+	"name": "JB Demo Extension",
+	"version": "1.0.0.0",
+	"default_locale": "en",
+	"description": "JB Demo description",
+	"icons": {
+		"128": "img/jb-icon.128.png",
+		"48": "img/jb-icon.48.png",
+		"32": "img/jb-icon.32.png",
+		"16": "img/jb-icon.16.png"
+	},
+	"author": "Jeff Bolt",
+	"homepage_url": "https://github.com/jeffbolt/ChromeExtensions"
+}
